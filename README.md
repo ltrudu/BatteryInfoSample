@@ -1,2 +1,2 @@
 # BatteryInfoSample
-Display Battery Informations including Zebra Specifics KPI
+Display Battery Informations including Zebra PowerPrecision Batteries KPI
